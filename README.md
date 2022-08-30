@@ -30,6 +30,7 @@ O diretor Reinald solicitou que o sistema de comunucação de aúdio contasse co
 - Benchmarking para verificação do posicionamento do negócio no mercado;
 - Avaliação de pratos e chefes;
 - Compartilhamento de dados entre os diferentes restaurantes;
+- Suporte para diversos idiomas;
 
 ## Casos de uso
 # engenhariaDeRequisitosUml
